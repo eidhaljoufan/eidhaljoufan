@@ -64,8 +64,7 @@ My goal is to develop a strong software engineering foundation and build applica
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=&theme=dark
-user=eidhaljoufan&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=EAFDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=eidhaljoufan&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak"/>
 
 </div>
 
