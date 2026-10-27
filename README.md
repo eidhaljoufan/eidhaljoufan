@@ -1,26 +1,26 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090D1B,45:172554,100:6D28D9&text=JHODIE%20NAUFAL&fontSize=48&fontColor=E0F2FE&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20WEB%20%26%20APPLICATIONS&descSize=13&descAlignY=58&animation=fadeIn&stroke=38BDF8&strokeWidth=1" alt="Jhodie Naufal — Software Engineering" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:172554,100:312E81&text=JHODIE%20NAUFAL&fontSize=46&fontColor=F0F6FC&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20WEB%20%26%20APPLICATIONS&descSize=13&fontColor=F0F6FC&descAlignY=58&animation=fadeIn&stroke=58A6FF&strokeWidth=1" alt="Jhodie Naufal — Software Engineering, Web and Applications" />
 
-<a href="https://github.com/eidhaljoufan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=55&lines=Building+software+that+solves+real+problems;From+application+logic+to+full-stack+systems;Learn.+Build.+Debug.+Improve.;Turning+ideas+into+working+applications." alt="Animated developer introduction" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=650&height=55&lines=Building+software+that+solves+real+problems;Learning+the+logic+behind+the+code;From+application+design+to+backend+systems;Build.+Test.+Debug.+Improve." alt="Building software, learning application design, and improving through iteration" />
 </a>
 
 <br/>
 
 <a href="https://github.com/eidhaljoufan">
-  <img src="https://img.shields.io/badge/GitHub-eidhaljoufan-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-eidhaljoufan-161B22?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="GitHub profile"/>
 </a>
 <a href="https://www.linkedin.com/in/jhodie-naufal-kertoprodjo/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn profile"/>
 </a>
 <a href="mailto:jhodienaufal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_touch-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact-6E40C9?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email contact"/>
 </a>
 
 <br/><br/>
 
-**Informatics Student · Aspiring Software Engineer · Continuous Learner**
+**Informatics Student · Aspiring Software Engineer**
 
 *“If it seems awful but it works, then don't touch it”*
 
@@ -28,188 +28,184 @@
 
 ---
 
-## `01` — About Me
+## 01 — About Me
+
+I'm an Informatics student at Pamulang University interested in building software beyond the user interface — from application logic and database design to APIs, testing, and deployment.
+
+My experience includes web development, Android applications, Flutter, quality assurance, and technical documentation. I learn through practical projects, debugging, and improving implementations based on real requirements.
+
+My current focus is strengthening programming fundamentals, backend development, database operations, and software engineering practices.
 
 ```javascript
 const developer = {
   name: "Jhodie Naufal",
   education: "Informatics — Pamulang University",
-  focus: ["Software Engineering", "Full-Stack Development"],
-  workingWith: ["JavaScript", "Java", "Laravel", "MySQL"],
-  exploring: ["Node.js", "React", "REST APIs", "System Design"],
   interests: [
-    "Application Architecture",
+    "Software Engineering",
+    "Full-Stack Development",
     "Database Design",
-    "Software Testing",
-    "Problem Solving"
+    "Software Testing"
   ],
-  mindset: "Understand the logic. Build the solution. Improve it."
+  technologies: {
+    languages: ["Java", "JavaScript", "PHP", "Dart"],
+    backend: ["Laravel", "Spring Boot", "REST APIs"],
+    databases: ["MySQL", "MongoDB"]
+  },
+  currentlyExploring: [
+    "Node.js",
+    "React",
+    "System Design"
+  ],
+  mindset: "Understand first, implement carefully, improve continuously."
 };
 ```
 
-I'm an Informatics student interested in how software works beyond its user interface — from application logic and database design to APIs, integration, testing, and deployment.
-
-My development journey spans web applications, Android development, QA, technical documentation, and practical workflow automation. I learn by building projects, investigating bugs, revisiting fundamentals, and improving my implementation through iteration.
-
-My goal is to develop a strong software engineering foundation and build applications that are maintainable, useful, and grounded in real-world requirements.
-
 ---
 
-## `02` — Developer Dashboard
+## 02 — GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=eidhaljoufan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github" alt="GitHub overview statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidhaljoufan&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1DA" alt="Most used languages"/>
+<a href="https://github.com/eidhaljoufan">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eidhaljoufan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=F0F6FC&icon_color=BC8CFF&rank_icon=github" alt="GitHub repository and contribution statistics"/>
+</a>
+<a href="https://github.com/eidhaljoufan">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidhaljoufan&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=F0F6FC&langs_count=6" alt="Most frequently used programming languages across public repositories"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=eidhaljoufan&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=C9D1D9&sideLabels=8B949E&dates=8B949E" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=eidhaljoufan&hide_border=true&background=0D1117&ring=79C0FF&fire=BC8CFF&currStreakLabel=F0F6FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="GitHub contribution streak"/>
 
 </div>
 
-> These cards display automatically generated GitHub metrics. Language distribution reflects repository code, not a direct measurement of proficiency.
+<sub>Note: GitHub metrics depend on repository visibility and the availability of third-party services. Language statistics indicate code distribution, not proficiency.</sub>
 
 ---
 
-## `03` — Tech Stack & Tools
+## 03 — Tech Stack
 
 <div align="center">
 
-### Languages
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=java,javascript,php,dart&theme=dark" alt="Java, JavaScript, PHP, Dart"/>
+<img src="https://skillicons.dev/icons?i=java,javascript,php,dart&theme=dark" alt="Java, JavaScript, PHP, and Dart"/>
 
-### Web & Backend Development
+**Web & Backend**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,laravel,spring,tailwind&theme=dark" alt="Web and backend technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,laravel,spring,react,nodejs,express,tailwind&theme=dark" alt="HTML, CSS, Laravel, Spring Boot, React, Node.js, Express, and Tailwind CSS"/>
 
-### Database, Platforms & Tools
+**Database, Mobile & Tools**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,aws,androidstudio,flutter,vscode&theme=dark" alt="Database, cloud, and development tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,aws,androidstudio,flutter,vscode&theme=dark" alt="MySQL, MongoDB, Git, GitHub, AWS, Android Studio, Flutter, and Visual Studio Code"/>
 
 </div>
 
-My hands-on experience varies across technologies. I continue to strengthen programming fundamentals, backend implementation, database operations, and software design through practical projects.
+**How I approach the stack:** I distinguish technologies used in projects from those I'm still exploring. My hands-on experience varies by tool, and I'm continuing to strengthen the fundamentals behind each implementation.
 
 ---
 
-## `04` — Featured Projects
+## 04 — Featured Projects
 
-A selection of projects reflecting my exploration of application development, backend integration, mobile applications, and structured software workflows.
+Projects I've worked on across web development, backend integration, mobile applications, and structured software workflows.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Net-Install WMS
 
-<h3>📦 Net-Install WMS</h3>
+**Warehouse and Field Operations Management**
 
-**Warehouse & Field Operations Management**
+A work-in-progress application focused on digitizing inventory and field operations for network installation services.
 
-A warehouse management application intended to digitize inventory and field operational reporting for network installation services.
-
-- MERN stack exploration
-- RESTful API architecture
-- Inventory and transaction workflows
+- MERN stack development
+- REST API architecture
+- Inventory and operational workflows
 - Role-based access control
 
 **Status:** In development
 
-<a href="https://github.com/eidhaljoufan/net-install-wms">Explore repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📍 Service Tracker</h3>
-
-**Web & Mobile Field Service Solution**
-
-A service tracking prototype connecting field workflows with centrally managed customer records.
-
-- Flutter and Dart
-- Google Apps Script REST API
-- Google Sheets data integration
-- Web deployment and Android APK distribution
-
-<a href="https://github.com/eidhaljoufan/service-tracker">Explore repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>⚡ ProductivAction</h3>
-
-**Android Productivity Application**
-
-An application for organizing daily tasks and supporting consistent productivity habits.
-
-- Java and Android XML
-- Task management and random task selection
-- Text-to-Speech
-- Dark mode and SharedPreferences
-
-<a href="https://github.com/eidhaljoufan/Productivaction">Explore repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🧩 Task Manager — SDD</h3>
-
-**Spec-Driven Development**
-
-A task management application exploring a structured approach to translating requirements into implementation tasks.
-
-- Requirements-driven workflow
-- Structured development planning
-- Iterative implementation
-
-<a href="https://github.com/eidhaljoufan/task-manager-sdd">Explore repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🧠 MachineLearning-course</h3>
-
-**Interactive Learning Web Application**
-
-A web-based learning project introducing fundamental machine learning concepts.
-
-- HTML-based learning interface
-- Course content organization
-- Interactive educational experience
-
-<a href="https://github.com/eidhaljoufan/MachineLearning-course">Explore repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📱 Mobile Programming Projects</h3>
-
-**Java & Android Studio**
-
-A collection of projects developed during mobile programming coursework.
-
-- Java-based Android development
-- UI implementation and application logic
-- Hands-on practice with Android Studio
-
-<a href="https://github.com/eidhaljoufan/Dump-Project_Mobile">Explore repository →</a>
-
-</td>
-</tr>
-</table>
+[View Net-Install WMS repository](https://github.com/eidhaljoufan/net-install-wms)
 
 ---
 
-## `05` — Engineering Experience
+### Service Tracker
+
+**Field Service Tracking — Web and Mobile**
+
+A service-tracking prototype integrating a Flutter application with a lightweight backend built using Google Apps Script and Google Sheets.
+
+- Flutter and Dart
+- REST API integration
+- Google Sheets data management
+- Web deployment and Android APK distribution
+
+[View Service Tracker repository](https://github.com/eidhaljoufan/service-tracker)
+
+---
+
+### ProductivAction
+
+**Android Productivity Application**
+
+An Android application for managing daily tasks and supporting personal productivity routines.
+
+- Java and Android XML
+- Task management and random task selection
+- Text-to-Speech functionality
+- Dark mode and SharedPreferences
+
+[View ProductivAction repository](https://github.com/eidhaljoufan/Productivaction)
+
+---
+
+### Resort Booking Management System
+
+**Java Spring Boot · MySQL**
+
+A booking management application built to practice backend development and relational database integration.
+
+- CRUD operations
+- Spring Boot and Spring Data JPA
+- MySQL persistence
+- Booking conflict validation
+
+[View my GitHub repositories](https://github.com/eidhaljoufan?tab=repositories)
+
+---
+
+### Employee Payroll System
+
+**Java · MySQL**
+
+A payroll application developed to practice database-driven application logic and reporting workflows.
+
+- Java application development
+- MySQL connectivity
+- Employee and payroll data management
+- JasperReports integration
+
+[View my GitHub repositories](https://github.com/eidhaljoufan?tab=repositories)
+
+---
+
+### Task Manager — Spec-Driven Development
+
+**Requirements-Driven Development Workflow**
+
+A task-management project exploring how structured requirements and development planning can guide implementation.
+
+- Requirement decomposition
+- Structured development workflow
+- Iterative implementation
+
+[View Task Manager — SDD repository](https://github.com/eidhaljoufan/task-manager-sdd)
+
+---
+
+## 05 — Engineering Experience
 
 <details>
 <summary><strong>Full Stack Engineer Intern — Digital Bootcamp Inovasika</strong></summary>
 
-Developed company profile websites using Laravel and Blade, translating UI/UX prototypes into responsive interfaces. Worked with a CMS for company project content and integrated a WordPress API to highlight website articles.
+Developed company profile websites using Laravel and Blade, translating UI/UX designs into responsive interfaces. Worked with a CMS for company project content and integrated a WordPress API to display articles.
 
 - [Jasa Konsultan SLF](https://jasakonsultanslf.com)
 - [Egy Bagus](https://egybagus.com)
@@ -219,10 +215,10 @@ Developed company profile websites using Laravel and Blade, translating UI/UX pr
 <details>
 <summary><strong>QA Engineer & Technical Documentation Intern — PT Mandiri Berkarya Nasional</strong></summary>
 
-Contributed to a remote three-member development team through quality assurance and technical documentation.
+Contributed to quality assurance and technical documentation within a remote development team.
 
 - Prepared test plans and system specifications.
-- Conducted white-box testing and identified edge cases.
+- Conducted white-box testing and investigated edge cases.
 - Documented issues to support debugging and code quality.
 - Collaborated across frontend, backend, and QA responsibilities.
 
@@ -230,58 +226,58 @@ Contributed to a remote three-member development team through quality assurance 
 
 ---
 
-## `06` — Currently Learning
+## 06 — Current Learning Priorities
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/01-Programming_Fundamentals-0F172A?style=flat-square&labelColor=0F172A&color=0891B2" alt="Programming fundamentals"/>
-<img src="https://img.shields.io/badge/02-OOP_%26_Design-0F172A?style=flat-square&labelColor=0F172A&color=7C3AED" alt="OOP and design"/>
-<img src="https://img.shields.io/badge/03-REST_APIs-0F172A?style=flat-square&labelColor=0F172A&color=0891B2" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/04-Database_Design-0F172A?style=flat-square&labelColor=0F172A&color=7C3AED" alt="Database design"/>
-<img src="https://img.shields.io/badge/05-Testing_%26_Debugging-0F172A?style=flat-square&labelColor=0F172A&color=0891B2" alt="Testing and debugging"/>
-<img src="https://img.shields.io/badge/06-System_Architecture-0F172A?style=flat-square&labelColor=0F172A&color=7C3AED" alt="System architecture"/>
+<img src="https://img.shields.io/badge/Programming-Fundamentals-161B22?style=flat-square&labelColor=161B22&color=0969DA" alt="Programming fundamentals"/>
+<img src="https://img.shields.io/badge/OOP-Design-161B22?style=flat-square&labelColor=161B22&color=6E40C9" alt="Object-oriented programming and design"/>
+<img src="https://img.shields.io/badge/Backend-REST_APIs-161B22?style=flat-square&labelColor=161B22&color=0969DA" alt="Backend and REST APIs"/>
+<img src="https://img.shields.io/badge/Database-Design-161B22?style=flat-square&labelColor=161B22&color=6E40C9" alt="Database design"/>
+<img src="https://img.shields.io/badge/Testing-Debugging-161B22?style=flat-square&labelColor=161B22&color=0969DA" alt="Testing and debugging"/>
+<img src="https://img.shields.io/badge/System-Design-161B22?style=flat-square&labelColor=161B22&color=6E40C9" alt="System design"/>
 
 </div>
 
-I don't want to learn technologies only by memorizing syntax. I aim to understand why a solution works, how its components interact, and how to diagnose problems when it doesn't.
-
 My current priorities are:
 
-- Deepening JavaScript fundamentals, including objects, classes, asynchronous code, and error handling.
+- Strengthening JavaScript fundamentals, including objects, classes, asynchronous code, and error handling.
 - Applying object-oriented programming in Java and JavaScript.
 - Building backend APIs with validation and clear business logic.
-- Understanding CRUD operations, database relationships, and data persistence.
+- Understanding CRUD operations, relational data, and persistence.
 - Improving testing, debugging, Git workflows, and deployment practices.
 
----
-
-## `07` — Beyond the Code
-
-I also value the work that surrounds software development: understanding requirements, documenting decisions, testing edge cases, collaborating with a team, and communicating technical ideas clearly.
-
-Outside development, I enjoy reading, learning new subjects, and writing about ideas that connect technology with everyday life.
+I aim to understand not only how to implement a solution, but also why it works, how its components interact, and how to investigate problems when it doesn't.
 
 ---
 
-## `08` — Let's Connect
+## 07 — Beyond Development
+
+Outside software development, I enjoy reading, exploring new subjects, and writing about ideas that connect technology with everyday life.
+
+I also value the work around software engineering: understanding requirements, documenting decisions, testing edge cases, and communicating technical ideas clearly.
+
+---
+
+## 08 — Connect
 
 <div align="center">
 
 Interested in software development, practical projects, or exchanging technical ideas?
 
 <a href="https://github.com/eidhaljoufan">
-  <img src="https://img.shields.io/badge/Explore_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my code"/>
+  <img src="https://img.shields.io/badge/Explore_My_Repositories-161B22?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Explore my GitHub repositories"/>
 </a>
 <a href="https://www.linkedin.com/in/jhodie-naufal-kertoprodjo/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect on LinkedIn"/>
 </a>
 <a href="mailto:jhodienaufal@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Send_an_Email-6E40C9?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Send me an email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:6D28D9,50:172554,100:090D1B" width="100%" alt="Decorative gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312E81,50:172554,100:0D1117" width="100%" alt="Dark blue and violet gradient footer"/>
 
 **Build with purpose. Learn through practice. Improve with every iteration.**
 
