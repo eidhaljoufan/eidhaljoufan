@@ -1,6 +1,9 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:172554,100:312E81&text=JHODIE%20NAUFAL&fontSize=46&fontColor=F0F6FC&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20WEB%20%26%20APPLICATIONS&descSize=13&fontColor=F0F6FC&descAlignY=58&animation=fadeIn&stroke=58A6FF&strokeWidth=1" alt="Jhodie Naufal — Software Engineering, Web and Applications" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:0D1117,50:172554,100:312E81&amp;text=JHODIE%20NAUFAL&amp;fontSize=46&amp;fontColor=F0F6FC"
+  alt="Jhodie Naufal — Software Engineering"
+/>
 
 <a href="https://readme-typing-svg.demolab.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=650&height=55&lines=Building+software+that+solves+real+problems;Learning+the+logic+behind+the+code;From+application+design+to+backend+systems;Build.+Test.+Debug.+Improve." alt="Building software, learning application design, and improving through iteration" />
