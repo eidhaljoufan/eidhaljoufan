@@ -60,11 +60,12 @@ My goal is to develop a strong software engineering foundation and build applica
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eidhaljoufan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=A78BFA&rank_icon=github" alt="GitHub overview statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidhaljoufan&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9A1EA" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidhaljoufan&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1DA" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=eidhaljoufan&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=&theme=dark
+user=eidhaljoufan&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=EAFDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 
 </div>
 
