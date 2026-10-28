@@ -111,11 +111,11 @@ Java Spring Boot MySQL Spring Data JPA
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=eidhaljoufan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=F0F9FF&rank_icon=github" height="165" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=eidhaljoufan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=FFFFFF&rank_icon=github" height="165" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidhaljoufan&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=F0F9FF" height="165" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidhaljoufan&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" height="165" alt="Most used languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eidhaljoufan&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=F0F9FF&dates=93C5FD&stats=F0F9FF" width="70%" alt="GitHub contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eidhaljoufan&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=93C5FD&stats=FFFFFF" width="70%" alt="GitHub contribution streak" />
 
 </div>
 
