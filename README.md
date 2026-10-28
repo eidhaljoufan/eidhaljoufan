@@ -8,8 +8,6 @@
   />
 </div>
 
-**Informatics Student · Aspiring Software Engineer**
-
 *"If it seems awful but it works, then don't touch it."*
 
 <a href="https://readme-typing-svg.demolab.com">
@@ -168,7 +166,5 @@ For collaboration, discussion, or further information regarding my work and expe
     alt="Animated blue and violet footer with Build, Learn, Improve"
   />
 </div>
-
-<sub>Thank you for visiting my profile.</sub>
 
 </div>
