@@ -125,7 +125,11 @@ Engineering metrics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/github-metrics.svg" width="100%" alt="GitHub engineering metrics" />
+<img
+  src="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/metrics.svg"
+  width="85%"
+  alt="GitHub activity metrics"
+/>
 
 </div>
 
