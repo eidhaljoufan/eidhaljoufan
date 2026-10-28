@@ -1,138 +1,169 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Jhodie Naufal — Software Engineer"/>
+<img src="./assets/header.svg" width="100%" alt="Jhodie Naufal — Software Engineer" />
 
-<a href="https://github.com/eidhaljoufan">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=16&amp;duration=3000&amp;pause=1200&amp;color=79C0FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=Engineering+practical+software+solutions;Connecting+application+logic%2C+data%2C+and+users;Building+across+web%2C+backend%2C+and+mobile" alt="Software engineering, application development, and problem solving"/>
-</a>
+SOFTWARE ENGINEERING · WEB · BACKEND · MOBILE
 
-<a href="https://github.com/eidhaljoufan">
-  <img src="https://img.shields.io/badge/GitHub-eidhaljoufan-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=F0F6FC" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/jhodie-naufal-kertoprodjo/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FFFFFF" alt="LinkedIn"/>
-</a>
-<a href="mailto:jhodienaufal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-6E40C9?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFFFFF" alt="Email"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&height=45&lines=Building+practical+software+solutions;Turning+logic+into+working+applications;Exploring+better+ways+to+engineer+software" alt="Animated introduction" />
 
-Informatics Student · Software Engineering · Application Development
+<a href="https://github.com/eidhaljoufan"><img src="https://img.shields.io/badge/GitHub-eidhaljoufan-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/jhodie-naufal-kertoprodjo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jhodienaufal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/>
+
+Informatics student at Pamulang University · Aspiring Software Engineer
 
 </div>
 
-Profile
-
-Informatics student at Pamulang University with hands-on experience in full-stack web development, Android applications, API integration, quality assurance, and technical documentation.
-
-Interested in building reliable software by connecting application logic, data, and user requirements. Experienced in developing and deploying web applications, implementing backend functionality, integrating external services, and collaborating across development roles.
-
-Technical Focus
-
 <div align="center">
 
-Languages
+01 — TECH STACK
 
-<img src="https://skillicons.dev/icons?i=java,javascript,php,dart&amp;theme=dark" alt="Java, JavaScript, PHP, Dart"/>
+LANGUAGES
 
-Frameworks & Application Development
+<img src="https://skillicons.dev/icons?i=java,javascript,php,dart&theme=dark" alt="Java, JavaScript, PHP, Dart" />
 
-<img src="https://skillicons.dev/icons?i=laravel,spring,react,nodejs,express,flutter&amp;theme=dark" alt="Laravel, Spring Boot, React, Node.js, Express, Flutter"/>
+FRAMEWORKS & PLATFORMS
 
-Data & Tools
+<img src="https://skillicons.dev/icons?i=laravel,spring,react,nodejs,express,flutter&theme=dark" alt="Laravel, Spring Boot, React, Node.js, Express, Flutter" />
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,aws,androidstudio,vscode&amp;theme=dark" alt="MySQL, MongoDB, Git, GitHub, AWS, Android Studio, Visual Studio Code"/>
+DATABASES & TOOLS
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,aws,androidstudio,vscode&theme=dark" alt="MySQL, MongoDB, Git, GitHub, AWS, Android Studio, VS Code" />
 
 </div>
 
-My current engineering priorities are to deepen JavaScript proficiency, strengthen React and Node.js implementation, and improve API design, database modeling, testing, and application architecture.
-
-As my backend and mobile development experience grows, I also plan to evaluate TypeScript for more maintainable JavaScript applications and Kotlin for modern native Android development.
-
-Selected Work
-
-A few examples of the systems and applications I've worked on.
+02 — WHAT I BUILD
 
 <details>
-<summary><strong>Net-Install WMS</strong> — Warehouse & Field Operations</summary>
+<summary><strong>🌐 Web & Backend Development</strong></summary>
 
-An ongoing MERN-stack application focused on inventory management and field reporting for network installation services.
-
-Focus: REST APIs, MongoDB, operational workflows, role-based access control.
-
-View repository
+Developing web applications with Laravel, JavaScript, and Spring Boot, with experience in REST API integration, database design, CMS functionality, and backend business logic.
 
 </details>
 
 <details>
-<summary><strong>Service Tracker</strong> — Cross-Platform Application</summary>
+<summary><strong>📱 Mobile Applications</strong></summary>
 
-A Flutter-based service tracking solution integrating Google Apps Script APIs and Google Sheets, with web deployment and Android distribution.
-
-Focus: API integration, data synchronization, cross-platform development.
-
-View repository
+Building Android applications with Java and exploring cross-platform development with Flutter, including local data persistence, API integration, and practical application features.
 
 </details>
 
 <details>
-<summary><strong>ProductivAction</strong> — Android Application</summary>
+<summary><strong>🧪 Software Quality & Documentation</strong></summary>
 
-A Java-based productivity application featuring task management, random task selection, Text-to-Speech, and persistent user preferences.
+Experience in QA activities, white-box testing, test planning, issue documentation, and technical specifications as part of a collaborative development team.
 
-Focus: Android UI, application logic, local data persistence.
+</details>
 
-View repository
+03 — SELECTED PROJECTS
+
+<details>
+<summary><strong>Net-Install WMS</strong> · MERN Stack</summary>
+
+An ongoing warehouse and field-operations application for inventory tracking and operational reporting.
+
+MongoDB Express React Node.js REST API RBAC
+
+↗ View repository
 
 </details>
 
 <details>
-<summary><strong>Resort Booking Management System</strong> — Backend Development</summary>
+<summary><strong>Service Tracker</strong> · Flutter</summary>
 
-A Java Spring Boot and MySQL application for reservation management, including CRUD operations and booking conflict validation.
+A service-tracking application integrating Google Apps Script and Google Sheets for data synchronization and field operations.
 
-Focus: Backend logic, relational data modeling, Spring Data JPA.
+Dart Flutter REST API Google Sheets
 
-Browse repositories
+↗ View repository
 
 </details>
 
-Professional Experience
+<details>
+<summary><strong>ProductivAction</strong> · Android / Java</summary>
 
-Full Stack Engineer Intern · Digital Bootcamp Inovasika
+A productivity app featuring task management, random task selection, Text-to-Speech, theme customization, and persistent preferences.
 
-May – August 2026
+Java XML Android SDK SharedPreferences
 
-Developed and deployed company profile websites using Laravel and Blade, including CMS functionality and WordPress API integration.
+↗ View repository
 
-QA Engineer & Technical Documentation Intern · PT Mandiri Berkarya Nasional
+</details>
 
-March – June 2026
+<details>
+<summary><strong>Resort Booking Management System</strong> · Spring Boot</summary>
 
-Contributed to test planning, white-box testing, issue documentation, and system specifications within a remote development team.
+A booking-management application with relational database integration, CRUD functionality, and reservation conflict validation.
 
-Beyond Development
+Java Spring Boot MySQL Spring Data JPA
 
-Interested in technology, reading, writing, and continuous improvement. I value clear technical communication, structured problem-solving, and understanding the reasoning behind engineering decisions.
+↗ Explore my repositories
 
-Connect
+</details>
 
 <div align="center">
 
-Open to connecting with developers, exchanging technical ideas, and exploring opportunities in software engineering.
+<a href="https://github.com/eidhaljoufan?tab=repositories"><img src="https://img.shields.io/badge/Explore-All_Repositories-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
 
-<a href="https://github.com/eidhaljoufan">
-  <img src="https://img.shields.io/badge/GitHub-Repositories-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=F0F6FC" alt="GitHub repositories"/>
-</a>
-<a href="https://www.linkedin.com/in/jhodie-naufal-kertoprodjo/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=FFFFFF" alt="LinkedIn profile"/>
-</a>
-<a href="mailto:jhodienaufal@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_Touch-6E40C9?style=for-the-badge&amp;logo=gmail&amp;logoColor=FFFFFF" alt="Email"/>
-</a>
+</div>
+
+04 — GITHUB ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=eidhaljoufan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidhaljoufan&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9" height="165" alt="Most used languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=eidhaljoufan&hide_border=true&background=0D1117&ring=79C0FF&fire=BC8CFF&currStreakLabel=79C0FF&sideLabels=C9D1D9&dates=8B949E" width="70%" alt="GitHub contribution streak" />
+
+</div>
+
+Engineering metrics
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/github-metrics.svg" width="100%" alt="GitHub engineering metrics" />
+
+</div>
+
+05 — CURRENT DIRECTION
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-Deepening_Core_Logic-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-Application_Architecture-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-Backend_Development-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Kotlin-Native_Android-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/TypeScript-Type_Safety-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+
+</div>
+
+Focused on strengthening application logic, writing maintainable code, and deepening framework knowledge through real implementation. Exploring Kotlin and TypeScript as relevant next steps while building on existing web, backend, and mobile experience.
+
+<div align="center">
+
+LET'S CONNECT
+
+Open to connecting with developers, sharing ideas, and exploring opportunities in software engineering.
+
+<a href="https://github.com/eidhaljoufan"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/jhodie-naufal-kertoprodjo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jhodienaufal@gmail.com"><img src="https://img.shields.io/badge/Email-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
-<img src="./assets/footer.svg" width="100%" alt="Animated blue and violet footer"/>
+CONTRIBUTION SNAKE
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+</picture>
+
+<img src="./assets/footer.svg" width="100%" alt="Animated footer" />
 
 <sub>Build with purpose. Engineer with intention.</sub>
 
