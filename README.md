@@ -1,9 +1,12 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:172554,100:312E81&text=JHODIE%20NAUFAL&fontSize=46&fontColor=F0F6FC&animation=twinkling&fontAlignY=38&desc=Informatics%20Student%20%C2%B7%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=16"
-  alt="Jhodie Naufal — Software Engineering"
-/>
+<div align="center">
+  <img
+    src="./assets/header.svg"
+    width="100%"
+    alt="Jhodie Naufal — Informatics Student and Aspiring Software Engineer"
+  />
+</div>
 
 **Informatics Student · Aspiring Software Engineer**
 
@@ -158,7 +161,13 @@ For collaboration, discussion, or further information regarding my work and expe
 
 <div align="center">
 
-<img src="./assets/footer.svg" width="100%" alt="Footer"/>
+<div align="center">
+  <img
+    src="./assets/footer.svg"
+    width="100%"
+    alt="Animated blue and violet footer with Build, Learn, Improve"
+  />
+</div>
 
 <sub>Thank you for visiting my profile.</sub>
 
