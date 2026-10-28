@@ -32,72 +32,107 @@ DATABASES & TOOLS
 
 </div>
 
-02 — WHAT I BUILD
+## `02` — Featured Projects & Timeline
 
-<details>
-<summary><strong>🌐 Web & Backend Development</strong></summary>
+A timeline of projects reflecting my hands-on growth, architecture exploration, and real-world implementation since **March 2026**.
 
-Developing web applications with Laravel, JavaScript, and Spring Boot, with experience in REST API integration, database design, CMS functionality, and backend business logic.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📍 Service Tracker App
+**Cross-Platform Field Solution**
+> Real-world service tracking application connecting field operational workflows with a cloud-synced customer database.
+
+- **Stack:** Dart, Flutter, Google Apps Script, Google Sheets DB, GitHub Pages
+- **Key Focus:** Serverless REST API, real-time sheet sync, APK distribution & web deployment.
+- **Status:** `Production Ready`
+
+<a href="https://github.com/eidhaljoufan/service-tracker"><b>Explore Repository ➔</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Net-Install WMS
+**Warehouse Operations System**
+> Full-stack web application designed to digitize warehouse inventory tracking and field installation operational reporting.
+
+- **Stack:** MongoDB, Express.js, React, Node.js (MERN), Tailwind CSS
+- **Key Focus:** RESTful API architecture, role-based access control, real-time stock logs.
+- **Status:** `In Active Development`
+
+<a href="https://github.com/eidhaljoufan/net-install-wms"><b>Explore Repository ➔</b></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ ProductivAction
+**Android Task & Productivity App**
+> Native mobile productivity application designed to organize daily tasks and support habit-building routines.
+
+- **Stack:** Java, Android SDK, SharedPreferences, XML
+- **Key Focus:** Task management, Random Task Selector, Text-to-Speech (TTS), Dark Mode.
+- **Status:** `Completed`
+
+<a href="https://github.com/eidhaljoufan/Productivaction"><b>Explore Repository ➔</b></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Task Manager (SDD)
+**Spec-Driven Development**
+> Task management project exploring structured requirement translation into clean software implementation.
+
+- **Stack:** JavaScript, Spec-Driven Development Workflow
+- **Key Focus:** Requirement-driven task mapping, structured architecture testing.
+- **Status:** `Completed`
+
+<a href="https://github.com/eidhaljoufan/task-manager-sdd"><b>Explore Repository ➔</b></a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/eidhaljoufan?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+  </a>
+</div>
+
+---
+
+## `03` — Engineering Experience (Production Deliverables)
+
+<details open>
+<summary><strong>🚀 Full-Stack Web Development Projects (March 2026 – Present)</strong></summary>
+<br/>
+
+Independently engineered and deployed production-ready dynamic company profile web applications from scratch based on Figma UI/UX prototypes. Focused on custom backend CMS architectures, API integrations, and production server deployments.
+
+* **Key Engineering Highlights:**
+  * **Frontend & CMS:** Built custom Laravel Blade interfaces and integrated **Filament PHP** as a dynamic admin panel for project, service, and content updates.
+  * **API Integration:** Consumed and integrated **WordPress REST APIs** to dynamically bridge external blog articles and dynamic updates into core web platforms.
+  * **Production Deployments:** Managed database implementations (SQL) and cloud domain configuration for live client accessibility.
+  * **Live Production Sites:**
+    * [Egy Bagus — Civil Engineering Consultant Profile](https://egybagus.com)
+    * [Jasa Konsultan SLF — Legal Building Certification Solution](https://jasakonsultanslf.com)
 
 </details>
 
 <details>
-<summary><strong>📱 Mobile Applications</strong></summary>
+<summary><strong>🔍 QA Engineer & Technical Documentation Intern — PT Mandiri Berkarya Nasional</strong></summary>
+<br/>
 
-Building Android applications with Java and exploring cross-platform development with Flutter, including local data persistence, API integration, and practical application features.
+Contributed to a remote three-member development team ensuring application quality, system reliability, and comprehensive documentation.
 
-</details>
-
-<details>
-<summary><strong>🧪 Software Quality & Documentation</strong></summary>
-
-Experience in QA activities, white-box testing, test planning, issue documentation, and technical specifications as part of a collaborative development team.
-
-</details>
-
-03 — SELECTED PROJECTS
-
-<details>
-<summary><strong>Net-Install WMS</strong> · MERN Stack</summary>
-
-An ongoing warehouse and field-operations application for inventory tracking and operational reporting.
-
-MongoDB Express React Node.js REST API RBAC
-
-↗ View repository
-
-</details>
-
-<details>
-<summary><strong>Service Tracker</strong> · Flutter</summary>
-
-A service-tracking application integrating Google Apps Script and Google Sheets for data synchronization and field operations.
-
-Dart Flutter REST API Google Sheets
-
-↗ View repository
-
-</details>
-
-<details>
-<summary><strong>ProductivAction</strong> · Android / Java</summary>
-
-A productivity app featuring task management, random task selection, Text-to-Speech, theme customization, and persistent preferences.
-
-Java XML Android SDK SharedPreferences
-
-↗ View repository
-
-</details>
-
-<details>
-<summary><strong>Resort Booking Management System</strong> · Spring Boot</summary>
-
-A booking-management application with relational database integration, CRUD functionality, and reservation conflict validation.
-
-Java Spring Boot MySQL Spring Data JPA
-
-↗ Explore my repositories
+* **Key Deliverables:**
+  * Formulated structured test plans and system specifications.
+  * Performed white-box testing and edge-case validation.
+  * Documented issues and collaborated across frontend, backend, and QA workflows to maintain codebase health.
 
 </details>
 
