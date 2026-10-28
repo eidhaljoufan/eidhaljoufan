@@ -119,18 +119,6 @@ Java Spring Boot MySQL Spring Data JPA
 
 </div>
 
-Engineering metrics
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/metrics.svg"
-  width="85%"
-  alt="GitHub activity metrics"
-/>
-
-</div>
-
 05 — CURRENT DIRECTION
 
 <div align="center">
