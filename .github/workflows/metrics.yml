@@ -11,6 +11,7 @@ jobs:
       - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           user: eidhaljoufan
           template: classic
           base: header, activity, community, repositories, metadata
