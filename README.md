@@ -1,13 +1,12 @@
- <div align="center">
+<div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:0D1117,50:172554,100:312E81&amp;text=JHODIE%20NAUFAL&amp;fontSize=46&amp;fontColor=F0F6FC"
-  alt="Jhodie Naufal — Software Engineering"
-/>
+<img src="./assets/banner.svg" width="100%" alt="Jhodie Naufal — Software Engineering"/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=650&height=55&lines=Building+software+that+solves+real+problems;Learning+the+logic+behind+the+code;From+application+design+to+backend+systems;Build.+Test.+Debug.+Improve." alt="Building software, learning application design, and improving through iteration" />
-</a>
+<br/>
+
+**Informatics Student · Aspiring Software Engineer**
+
+*"If it seems awful but it works, then don't touch it."*
 
 <br/>
 
@@ -21,72 +20,35 @@
   <img src="https://img.shields.io/badge/Email-Contact-6E40C9?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email contact"/>
 </a>
 
-<br/><br/>
-
-**Informatics Student · Aspiring Software Engineer**
-
-*“If it seems awful but it works, then don't touch it”*
-
 </div>
 
 ---
 
-## 01 — About Me
+## Profile
 
-I'm an Informatics student at Pamulang University interested in building software beyond the user interface — from application logic and database design to APIs, testing, and deployment.
+I am an Informatics student at Pamulang University with a strong interest in software engineering. My focus lies in understanding how applications are constructed — from application logic and database design to API development, testing, and deployment — rather than solely on the user interface.
 
-My experience includes web development, Android applications, Flutter, quality assurance, and technical documentation. I learn through practical projects, debugging, and improving implementations based on real requirements.
+My experience includes web development, Android application development, Flutter, quality assurance, and technical documentation. I approach learning through practical projects, systematic debugging, and iterative improvement based on real requirements.
 
-My current focus is strengthening programming fundamentals, backend development, database operations, and software engineering practices.
-
-```javascript
-const developer = {
-  name: "Jhodie Naufal",
-  education: "Informatics — Pamulang University",
-  interests: [
-    "Software Engineering",
-    "Full-Stack Development",
-    "Database Design",
-    "Software Testing"
-  ],
-  technologies: {
-    languages: ["Java", "JavaScript", "PHP", "Dart"],
-    backend: ["Laravel", "Spring Boot", "REST APIs"],
-    databases: ["MySQL", "MongoDB"]
-  },
-  currentlyExploring: [
-    "Node.js",
-    "React",
-    "System Design"
-  ],
-  mindset: "Understand first, implement carefully, improve continuously."
-};
-```
+My current focus is to strengthen programming fundamentals, backend development, database operations, and software engineering practices.
 
 ---
 
-## 02 — GitHub Activity
+## Current Learning Priorities
 
-<div align="center">
+My current priorities are:
 
-<a href="https://github.com/eidhaljoufan">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eidhaljoufan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=F0F6FC&icon_color=BC8CFF&rank_icon=github" alt="GitHub repository and contribution statistics"/>
-</a>
-<a href="https://github.com/eidhaljoufan">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidhaljoufan&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=F0F6FC&langs_count=6" alt="Most frequently used programming languages across public repositories"/>
-</a>
+- Strengthening JavaScript fundamentals, including objects, classes, asynchronous code, and error handling.
+- Applying object-oriented programming principles in Java and JavaScript.
+- Building backend APIs with proper validation and clear business logic.
+- Understanding CRUD operations, relational data modeling, and persistence.
+- Improving testing, debugging, Git workflows, and deployment practices.
 
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=eidhaljoufan&hide_border=true&background=0D1117&ring=79C0FF&fire=BC8CFF&currStreakLabel=F0F6FC&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="GitHub contribution streak"/>
-
-</div>
-
-<sub>Note: GitHub metrics depend on repository visibility and the availability of third-party services. Language statistics indicate code distribution, not proficiency.</sub>
+The objective is not only to implement a solution, but also to understand why it works, how its components interact, and how to investigate problems when it does not.
 
 ---
 
-## 03 — Tech Stack
+## Technical Stack
 
 <div align="center">
 
@@ -104,106 +66,31 @@ const developer = {
 
 </div>
 
-**How I approach the stack:** I distinguish technologies used in projects from those I'm still exploring. My hands-on experience varies by tool, and I'm continuing to strengthen the fundamentals behind each implementation.
+A distinction is made between technologies used in actual projects and those still being explored. Hands-on experience varies by tool, and the fundamentals behind each implementation continue to be strengthened.
 
 ---
 
-## 04 — Featured Projects
+## Contribution Activity
 
-Projects I've worked on across web development, backend integration, mobile applications, and structured software workflows.
+<div align="center">
 
-### Net-Install WMS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/snake.svg" />
+</picture>
 
-**Warehouse and Field Operations Management**
+<br/><br/>
 
-A work-in-progress application focused on digitizing inventory and field operations for network installation services.
+<img src="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/metrics.svg" width="85%" alt="GitHub activity metrics"/>
 
-- MERN stack development
-- REST API architecture
-- Inventory and operational workflows
-- Role-based access control
+</div>
 
-**Status:** In development
-
-[View Net-Install WMS repository](https://github.com/eidhaljoufan/net-install-wms)
-
----
-
-### Service Tracker
-
-**Field Service Tracking — Web and Mobile**
-
-A service-tracking prototype integrating a Flutter application with a lightweight backend built using Google Apps Script and Google Sheets.
-
-- Flutter and Dart
-- REST API integration
-- Google Sheets data management
-- Web deployment and Android APK distribution
-
-[View Service Tracker repository](https://github.com/eidhaljoufan/service-tracker)
+<sub>Statistics depend on repository visibility and the availability of third-party services.</sub>
 
 ---
 
-### ProductivAction
-
-**Android Productivity Application**
-
-An Android application for managing daily tasks and supporting personal productivity routines.
-
-- Java and Android XML
-- Task management and random task selection
-- Text-to-Speech functionality
-- Dark mode and SharedPreferences
-
-[View ProductivAction repository](https://github.com/eidhaljoufan/Productivaction)
-
----
-
-### Resort Booking Management System
-
-**Java Spring Boot · MySQL**
-
-A booking management application built to practice backend development and relational database integration.
-
-- CRUD operations
-- Spring Boot and Spring Data JPA
-- MySQL persistence
-- Booking conflict validation
-
-[View my GitHub repositories](https://github.com/eidhaljoufan?tab=repositories)
-
----
-
-### Employee Payroll System
-
-**Java · MySQL**
-
-A payroll application developed to practice database-driven application logic and reporting workflows.
-
-- Java application development
-- MySQL connectivity
-- Employee and payroll data management
-- JasperReports integration
-
-[View my GitHub repositories](https://github.com/eidhaljoufan?tab=repositories)
-
----
-
-### Task Manager — Spec-Driven Development
-
-**Requirements-Driven Development Workflow**
-
-A task-management project exploring how structured requirements and development planning can guide implementation.
-
-- Requirement decomposition
-- Structured development workflow
-- Iterative implementation
-
-[View Task Manager — SDD repository](https://github.com/eidhaljoufan/task-manager-sdd)
-
----
-
-## 05 — Engineering Experience
+## Engineering Experience
 
 <details>
 <summary><strong>Full Stack Engineer Intern — Digital Bootcamp Inovasika</strong></summary>
@@ -229,61 +116,38 @@ Contributed to quality assurance and technical documentation within a remote dev
 
 ---
 
-## 06 — Current Learning Priorities
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Programming-Fundamentals-161B22?style=flat-square&labelColor=161B22&color=0969DA" alt="Programming fundamentals"/>
-<img src="https://img.shields.io/badge/OOP-Design-161B22?style=flat-square&labelColor=161B22&color=6E40C9" alt="Object-oriented programming and design"/>
-<img src="https://img.shields.io/badge/Backend-REST_APIs-161B22?style=flat-square&labelColor=161B22&color=0969DA" alt="Backend and REST APIs"/>
-<img src="https://img.shields.io/badge/Database-Design-161B22?style=flat-square&labelColor=161B22&color=6E40C9" alt="Database design"/>
-<img src="https://img.shields.io/badge/Testing-Debugging-161B22?style=flat-square&labelColor=161B22&color=0969DA" alt="Testing and debugging"/>
-<img src="https://img.shields.io/badge/System-Design-161B22?style=flat-square&labelColor=161B22&color=6E40C9" alt="System design"/>
-
-</div>
-
-My current priorities are:
-
-- Strengthening JavaScript fundamentals, including objects, classes, asynchronous code, and error handling.
-- Applying object-oriented programming in Java and JavaScript.
-- Building backend APIs with validation and clear business logic.
-- Understanding CRUD operations, relational data, and persistence.
-- Improving testing, debugging, Git workflows, and deployment practices.
-
-I aim to understand not only how to implement a solution, but also why it works, how its components interact, and how to investigate problems when it doesn't.
-
----
-
-## 07 — Beyond Development
+## Beyond Development
 
 Outside software development, I enjoy reading, exploring new subjects, and writing about ideas that connect technology with everyday life.
 
-I also value the work around software engineering: understanding requirements, documenting decisions, testing edge cases, and communicating technical ideas clearly.
+I also value the work surrounding software engineering: understanding requirements, documenting decisions, testing edge cases, and communicating technical ideas clearly.
 
 ---
 
-## 08 — Connect
+## Contact
 
 <div align="center">
 
-Interested in software development, practical projects, or exchanging technical ideas?
+For collaboration, discussion, or further information regarding my work and experience:
 
 <a href="https://github.com/eidhaljoufan">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-161B22?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="Explore my GitHub repositories"/>
+  <img src="https://img.shields.io/badge/GitHub-Repositories-161B22?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="GitHub repositories"/>
 </a>
 <a href="https://www.linkedin.com/in/jhodie-naufal-kertoprodjo/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn profile"/>
 </a>
 <a href="mailto:jhodienaufal@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-6E40C9?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Send me an email"/>
+  <img src="https://img.shields.io/badge/Email-Inquiry-6E40C9?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email inquiry"/>
 </a>
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312E81,50:172554,100:0D1117" width="100%" alt="Dark blue and violet gradient footer"/>
+---
 
-**Build with purpose. Learn through practice. Improve with every iteration.**
+<div align="center">
 
-<sub>Thanks for visiting my profile.</sub>
+<img src="./assets/footer.svg" width="100%" alt="Footer"/>
+
+<sub>Thank you for visiting my profile.</sub>
 
 </div>
