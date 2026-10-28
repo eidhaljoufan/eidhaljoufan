@@ -1,12 +1,20 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Jhodie Naufal — Software Engineering"/>
-
-<br/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:172554,100:312E81&text=JHODIE%20NAUFAL&fontSize=46&fontColor=F0F6FC&animation=twinkling&fontAlignY=38&desc=Informatics%20Student%20%C2%B7%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=16"
+  alt="Jhodie Naufal — Software Engineering"
+/>
 
 **Informatics Student · Aspiring Software Engineer**
 
 *"If it seems awful but it works, then don't touch it."*
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=650&height=55&lines=Building+software+that+solves+real+problems;Learning+the+logic+behind+the+code;From+application+design+to+backend+systems;Build.+Test.+Debug.+Improve."
+    alt="Building software, learning application design, and improving through iteration"
+  />
+</a>
 
 <br/>
 
@@ -82,7 +90,11 @@ A distinction is made between technologies used in actual projects and those sti
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/metrics.svg" width="85%" alt="GitHub activity metrics"/>
+<img
+  src="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/metrics.svg"
+  width="85%"
+  alt="GitHub activity metrics"
+/>
 
 </div>
 
