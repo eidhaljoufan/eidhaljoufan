@@ -123,7 +123,7 @@ Independently engineered and deployed production-ready dynamic company profile w
 
 </details>
 
-<details>
+<details open>
 <summary><strong>🔍 QA Engineer & Technical Documentation Intern — PT Mandiri Berkarya Nasional</strong></summary>
 <br/>
 
