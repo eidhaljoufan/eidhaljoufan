@@ -2,8 +2,6 @@
 
 <img src="./assets/header.svg" width="100%" alt="Jhodie Naufal — Software Engineer" />
 
-SOFTWARE ENGINEERING · WEB · BACKEND · MOBILE
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&height=45&lines=Building+practical+software+solutions;Turning+logic+into+working+applications;Exploring+better+ways+to+engineer+software" alt="Animated introduction" />
 
 <a href="https://github.com/eidhaljoufan"><img src="https://img.shields.io/badge/GitHub-eidhaljoufan-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
