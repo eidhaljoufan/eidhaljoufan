@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,45:172554,100:6D28D9&text=JHODIE%20NAUFAL&fontSize=46&fontColor=E0F2FE&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEER&descSize=13&descAlignY=58&animation=fadeIn&stroke=38BDF8&strokeWidth=1" alt="Header Banner" />
+
 <img src="./assets/header.svg" width="100%" alt="Jhodie Naufal — Software Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=79C0FF&center=true&vCenter=true&width=600&height=45&lines=Building+practical+software+solutions;Turning+logic+into+working+applications;Exploring+better+ways+to+engineer+software" alt="Animated introduction" />
@@ -188,8 +190,12 @@ CONTRIBUTION SNAKE
   <img src="https://raw.githubusercontent.com/eidhaljoufan/eidhaljoufan/output/snake.svg" width="100%" alt="Animated GitHub contribution snake" />
 </picture>
 
-<img src="./assets/footer.svg" width="100%" alt="Animated footer" />
+<div align="center">
 
-<sub>Build with purpose. Engineer with intention.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:6D28D9,50:172554,100:0D1117" width="100%" alt="Footer" />
+
+<sub>Designed & Engineered by Jhodie Naufal · Build with purpose.</sub>
+
+</div>
 
 </div>
