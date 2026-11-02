@@ -150,7 +150,7 @@ Contributed to a remote three-member development team ensuring application quali
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidhaljoufan&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=FFFFFF" height="165" alt="Most used languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=eidhaljoufan&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=93C5FD&stats=FFFFFF" width="70%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=eidhaljoufan&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=93C5FD" width="70%" alt="GitHub contribution streak" />
 
 </div>
 
