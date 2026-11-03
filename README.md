@@ -10,8 +10,6 @@
 
 <br/>
 
-Informatics student at Pamulang University
-
 </div>
 
 <div align="center">
