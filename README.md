@@ -10,7 +10,7 @@
 
 <br/>
 
-Informatics student at Pamulang University · Aspiring Software Engineer
+Informatics student at Pamulang University
 
 </div>
 
